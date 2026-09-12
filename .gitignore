@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data & model weights (too large for git)
+*.npy
+*.pth
+*.pkl
+data/
+Balanced_New_Health_Dataset*/
+UAV-HSI-Crop-Dataset/
+Cleaned/
+New_Health_Dataset/
+
+# OS
+.DS_Store
+Thumbs.db

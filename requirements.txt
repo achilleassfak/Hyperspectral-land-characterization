@@ -1,0 +1,9 @@
+numpy
+pandas
+torch
+scikit-learn
+scipy
+matplotlib
+tifffile
+tqdm
+jupyter
